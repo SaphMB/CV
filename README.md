@@ -37,8 +37,6 @@ MA Applied Linguistics, Merit
 
 BSc Psychology, 2:1
 
-#### Any other qualifications
-
 ## Experience
 
 **Homes for Haringey** (September 2016 - June 2017)    
