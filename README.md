@@ -42,12 +42,16 @@ BSc Psychology, 2:1
 ## Experience
 
 **Homes for Haringey** (September 2016 - June 2017)    
-*Communications Officer*  
+Communications Officer
+
 **London Youth Support Trust** (May 2014 - August 2016)   
-*Communications and Marketing Officer*  
+Communications and Marketing Officer
+
 **Ambition** (January 2014 - March 2014)   
-*Communications Assistant*
+Communications Assistant
+
 **Barrow Cadbury Trust** (October 2013 - December 2013)   
-*Interim Communications Officer*
+Interim Communications Officer
+
 **Barrow Cadbury Trust** (April 2013 - October 2013)   
-*Communications and Programmes Intern*
+Communications and Programmes Intern
