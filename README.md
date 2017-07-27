@@ -1,6 +1,6 @@
 ## Sapphire Mason-Brown
 
-A determined and passionate communications professional making a transition to the technology industry. After working in communications within the charity a public sectors, I'm training to become a developer at Maker's Academy, an intensive developer bootcamp.
+A determined and passionate communications professional making a transition into the technology industry. After working in communications within the charity and public sectors, I'm training to become a developer at Maker's Academy, an intensive developer bootcamp.
 
 ## Skills
 
@@ -16,11 +16,11 @@ Strong organisational skills have been central to my previous roles. As I have p
 
 #### Working with stakeholders
 
-Whilst working in the charity and public sector, I worked closely with a range of stakeholders including local councils, local councillors,  board members and senior management teams.
+Whilst working in the charity and public sector, I worked closely with a range of stakeholders including local councils, local councillors,  board members and senior management teams to meet shared goals.
 
 ## Education
 
-#### Makers Academy (June 2017 to end_date)
+#### Makers Academy (June 2017 to September 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
