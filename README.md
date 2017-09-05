@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-Former communications professional turned developer. After gaining valuable experience working within the charity and public sectors, I'm training to become a developer at Maker's Academy, an intensive developer bootcamp. I'm particularly interested in technology for good, combining my experience in the charity sector with my enjoyment of problem solving.
+Former communications professional turned developer. After gaining valuable experience working within the charity and public sectors, I'm training to become a developer at Makers Academy, an intensive developer bootcamp. I'm particularly interested in technology for good, combining my experience in the charity sector with my enjoyment of problem solving.
 
 <a name="skills"></a>
 ## Skills
@@ -11,11 +11,11 @@ Former communications professional turned developer. After gaining valuable expe
 
 Through working in various communications roles over the last five years, I have become adept at making complex information clear and concise for the appropriate audience. In my position at the London Youth Support Trust I led on the creation of the Trust’s [online resource for start-up businesses](http://fromdreamingtodoing.co.uk), translating complex information into an easy-to-understand guide.
 
-As a communications lead, I also worked across teams to inform other parts of the organisation about projects I was working on and share knowledge.
+As a communications lead, I also worked across teams to inform other parts of the organisation about projects I was working on and share knowledge. I have also improved my ability to speak about technical concepts by [blogging](https://medium.com/@saphmb).
 
 #### Independent Learning
 
-The Makers Academy course is focused on self-guided learning with learners taking the lead on independently studying programming concepts and working on projects.
+The Makers Academy course is focused on self-guided learning with learners taking the lead on independently studying programming concepts and working on projects. To improve my understanding of key concepts, I have exercised my ability to learn independently by working on side-projects.
 
 #### Problem Solving
 
@@ -42,7 +42,7 @@ During my time in the charity and public sector, I worked closely with a range o
 
 - Independent learning and problem-solving
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- Software Craft
 - Technologies including Ruby, Rails, Javascript, Node.js
 - Testing with Rspec, Jasmine, Mocha, Chai and Capybara
 
