@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-Former communications professional turned developer. After gaining valuable experience working within the charity and public sectors, I'm training to become a developer at Makers Academy, an intensive developer bootcamp. I'm particularly interested in technology for good, combining my experience in the charity sector with my enjoyment of problem solving.
+Former communications professional turned developer. After gaining valuable experience working within the charity and public sectors, I trained to become a developer at Makers Academy, an intensive developer bootcamp. I'm particularly interested in technology for good, combining my experience in the charity sector with my enjoyment of problem solving.
 
 <a name="skills"></a>
 ## Skills
