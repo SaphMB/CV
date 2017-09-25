@@ -9,13 +9,13 @@ Former communications professional turned developer. After gaining valuable expe
 
 #### Communication
 
-Through working in various communications roles over the last five years, I have become adept at making complex information clear and concise for the appropriate audience. In my position at the London Youth Support Trust I led on the creation of the Trust’s [online resource for start-up businesses](http://fromdreamingtodoing.co.uk), translating complex information into an easy-to-understand guide.
+Through working in various communications roles over the last five years, I have become adept at making complex information clear and concise for the appropriate audience. In my position at the London Youth Support Trust I led on the creation of the Trust’s online resource for start-up businesses, translating complex information into an easy-to-understand guide.
 
-As a communications lead, I also worked across teams to inform other parts of the organisation about projects I was working on and share knowledge. I have also improved my ability to speak about technical concepts by [blogging](https://medium.com/@saphmb).
+As a communications lead, I also worked across teams to inform other parts of the organisation about projects I was working on and share knowledge. I have also improved my ability to speak about technical concepts by [blogging](https://medium.com/@saphmb) and coaching people new to coding.
 
 #### Independent Learning
 
-The Makers Academy course is focused on self-guided learning with learners taking the lead on independently studying programming concepts and working on projects. To improve my understanding of key concepts, I have exercised my ability to learn independently by working on side-projects.
+Throughout my studies, I honed my ability to work independently. My masters in particular in had very few contact hours with my diligently working on my dissertation using a research methodology I had never used before. This skill was further honed during my time at Makers Academy with my taking the lead on my own learning of key programming concepts.
 
 #### Problem Solving
 
@@ -30,7 +30,7 @@ During my time in the charity and public sector, I worked closely with a range o
 
 |Project | Description | Technologies Used |
 |--------|--------|--------|
-| [Moody News](https://github.com/SaphMB/moody_news) |  An application that allows a user to filter the news by mood. Whether they want to hear nothing but positive news, dampen their mood with negative news or remain constant with the neutral, Moody News can cater to them. |  Node.js, Express, Aylien API and Bootstrap. Tested with Mocha and Zombie. |
+| [Sqrl](https://github.com/artemisxen/sqrl) |  Are you forever forgetting about recommendations other people have given you? Have you ever realised that you were just around the corner from place you've been meaning to check out...after you'd already gotten home? This is where Sqrl steps in. With Sqrl, users can bookmark places of interest and receive a timely, location-based reminder when they are in the vicinity. |  React-Native, Firebase and Google Place API. Tested with Cavy. |
 | [All-Staas BnB](https://github.com/SaphMB/allstaas-bnb) | Our first group project, All-Staas BnB is an Air BnB Clone. The application allows users to sign in to list and book properties. | Node.js, Express, Sequelize, Travis CI, Git. Tested with Mocha, Zombie and Chai.  |
 | [Rock Paper Scissors](https://github.com/JayWebDevCom/rps-challenge) |  A test-driven game that allows the user to try their luck playing a game of Rock Paper Scissors against the automated player, Hal. |  Ruby, Sinatra and Bootstrap. Tested with RSpec and  Capybara. |  
 | [Thermostat](https://github.com/SaphMB/thermostat)  | The Thermostat app models a simple thermostat that allows the user to adjust the temperature and identify when the temperature is in high, low or medium power mode. The user can also use the app to find out the weather in a given city | Javascript, jQuery, Bootstrap, HTML and CSS. Tested with Jasmine. |
@@ -78,3 +78,4 @@ Communications and Programmes Intern
 * Consolidating my understanding of technical concepts through [blogging](https://medium.com/@saphmb)
 * Live music and the theatre
 * Organising events - I'm currently on the organising team for the inaugural [Afrotech Festival](http://www.afrotechfest.co.uk)
+*
