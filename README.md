@@ -78,4 +78,3 @@ Communications and Programmes Intern
 * Consolidating my understanding of technical concepts through [blogging](https://medium.com/@saphmb)
 * Live music and the theatre
 * Organising events - I'm currently on the organising team for the inaugural [Afrotech Festival](http://www.afrotechfest.co.uk)
-*
